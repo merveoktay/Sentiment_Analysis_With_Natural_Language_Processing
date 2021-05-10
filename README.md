@@ -13,3 +13,4 @@ Projede kullanılan veri seti Cornell üniversitesinin İngilizce IMDB film yoru
  train-neg.txt: 12500 olumsuz film yorumları içeren eğitim verisi 
  train-pos.txt: 12500 olumlu film yorumları içeren eğitim verisi 
  train-unsup.txt: 50000 etiketsiz film yorumları verisi
+ 
